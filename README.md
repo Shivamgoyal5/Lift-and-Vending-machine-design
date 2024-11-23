@@ -1,1 +1,1 @@
-Working of lift and Vending machine
+Working of lift and Vending Machine
